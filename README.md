@@ -1,4 +1,6 @@
 revised_admin_cleanup_datasets
 ==============================
 
-Revised admin_cleanup_datasets.py for dataset deletion in Galaxy.
+I revised admin_cleanup_datasets.py written by Lance Parsons (lparsons@princeton.edu) for dataset deletion in Galaxy.
+
+The original script does not work in my old version Galaxy instance. I also delete the smtp email sending function.
